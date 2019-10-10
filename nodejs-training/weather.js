@@ -16,5 +16,5 @@ request({
         resolve('It\'s ' + body.main.temp + ' in ' + body.name + '!');
     }
 })
-    })
+    }) 
 }
